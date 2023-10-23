@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Chaos-19/React-ToDo-App.git
    ```
 
 2. **Install Dependencies**:
